@@ -1,10 +1,10 @@
-streamlit==0.90.0
-pandas==1.3.3
-scikit-learn==0.24.0
-matplotlib==3.4.3
-plotly==5.3.1
-numpy==1.21.2
-minisom==2.2.9
+streamlit
+pandas
+scikit-learn
+matplotlib
+plotly
+numpy
+minisom
 
 
 
